@@ -2,6 +2,8 @@
 
 Native Swift iOS application that utilizes Open Library's search API to browse available books. RealmSwift is used for local persistence of wishlist data. 
 
+<img src="https://github.com/everuribe/openlibrarysearch-ios/blob/master/reference_resources/book_view.png" width="200"> <img src="https://github.com/everuribe/openlibrarysearch-ios/blob/master/reference_resources/book_view_wishlisted.png" width="200"> <img src="https://github.com/everuribe/openlibrarysearch-ios/blob/master/reference_resources/search_page.png" width="200"> <img src="https://github.com/everuribe/openlibrarysearch-ios/blob/master/reference_resources/wishlist_page.png" width="200">
+
 ## Getting Started
 
 ### Prerequisites
